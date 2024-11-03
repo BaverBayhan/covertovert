@@ -6,7 +6,9 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Baver Bayhan 2521284
+Şevval Uçar 2522076
+group 63
 
 
 .. toctree::
